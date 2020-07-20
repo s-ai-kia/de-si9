@@ -7,7 +7,7 @@ In this repository I keep track of my design works and notes on best practices. 
 
 #### 🧵 <b>Adobe Photoshop</b> <img src="./logo/ps.png" height=30px><a>
 
-<img src="./work/ps/queen_preview.jpg" height=400px><a> </a><img src="./work/ps/haunting_woods_preview.jpg" height=400px>
+<img src="./work/ps/queen_preview.jpg" height=350px><a> </a><img src="./work/ps/haunting_woods_preview.jpg" height=350px><a> </a><img src="./work/ps/fairy_preview.jpg" height=350px>
 
 #### 🧵 <b>Adobe Photoshop</b> <img src="./logo/lr.png" height=30px><a>
 
