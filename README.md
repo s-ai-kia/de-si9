@@ -1,4 +1,4 @@
-# Design works and notes
+# Design works and notes : De-si9
 In this repository I keep track of my design works and notes on best practices. I do sketch, photography and design work as a hobbyist in my free time.
 
 ### Design work on <b>Image & Audio Media</b>
@@ -9,10 +9,13 @@ In this repository I keep track of my design works and notes on best practices. 
 
 <img src="./work/ps/queen_preview.jpg" height=350px><a> </a><img src="./work/ps/haunting_woods_preview.jpg" height=350px><a> </a><img src="./work/ps/fairy_preview.jpg" height=350px>
 
-#### 🧵 <b>Adobe Photoshop</b> <img src="./logo/lr.png" height=30px><a>
+#### 🧵 <b>Adobe Lightroom</b> <img src="./logo/lr.png" height=30px><a>
 
-<img src="./work/lr/sk.PNG" height=209px><a></a><img src="./work/lr/vvs.PNG" height=209px>
-<img src="./work/lr/scene.jpg">
+<img src="./work/lr/sk.PNG" height=100px><a></a><img src="./work/lr/vvs.PNG" height=100px><img src="./work/lr/scene.jpg" height=100px>
+
+#### 🧵 <b>Adobe Illustrator</b> <img src="./logo/il.png" height=30px><a>
+
+<img src="./work/il/arcred.png" height=150px><a> </a><img src="./work/il/arcred-propulsion-2.png" height=150px><a> </a><img src="./work/il/arcred-robotics-2.png" height=150px><a> </a><img src="./work/il/mars.png" height=150px>
 
 ### Design work on <b>Video Media</b>
 
