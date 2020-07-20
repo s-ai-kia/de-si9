@@ -11,7 +11,7 @@ In this repository I keep track of my design works and notes on best practices. 
 
 #### 🧵 <b>Adobe Lightroom</b> <img src="./logo/lr.png" height=30px><a>
 
-<img src="./work/lr/sk.PNG" height=100px><a></a><img src="./work/lr/vvs.PNG" height=100px><img src="./work/lr/scene.jpg" height=100px>
+<img src="./work/lr/sk.PNG" height=115px><a></a><img src="./work/lr/vvs.PNG" height=115px><img src="./work/lr/scene.jpg" height=115px>
 
 #### 🧵 <b>Adobe Illustrator</b> <img src="./logo/il.png" height=30px><a>
 
