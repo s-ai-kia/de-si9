@@ -17,6 +17,10 @@ In this repository I keep track of my design works and notes on best practices. 
 
 <img src="./work/il/arcred.png" height=150px><a> </a><img src="./work/il/arcred-propulsion-2.png" height=150px><a> </a><img src="./work/il/arcred-robotics-2.png" height=150px><a> </a><img src="./work/il/mars.png" height=150px>
 
+#### 🧵 <b>Adobe Dimension</b> <img src="./logo/dn.png" height=30px><a>
+
+<img src="./work/dn/car.png" height=190px><a> </a><img src="./work/dn/coffee.png" height=190px><a> </a><img src="./work/dn/can.png" height=190px>
+
 ### Design work on <b>Video Media</b>
 
 <img src="./logo/pr.png" height=100px><a> </a><img src="./logo/ae.png" height=100px><a> </a><img src="./logo/bl.ico" height=100px><a> </a><img src="./logo/maya.png" height=100px><a> </a><img src="./logo/houdini.png" height=100px><a> </a><img src="./logo/arnold.png" height=100px><a> </a><img src="./logo/c4d.png" height=100px><a> </a><img src="./logo/unity.png" height=100px>
