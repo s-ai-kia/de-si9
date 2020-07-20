@@ -1,7 +1,7 @@
 # Design works and notes
-In this repository I keep track of my design works and notes on best practices.
+In this repository I keep track of my design works and notes on best practices. I do sketch, photography and design work as a hobbyist in my free time.
 
-### Design work on <b>Image Media</b>
+### Design work on <b>Image & Audio Media</b>
 
 <img src="./logo/ps.png" height=100px><a> </a><img src="./logo/lr.png" height=100px><a> </a><img src="./logo/il.png" height=100px><a> </a><img src="./logo/dn.png" height=100px><a> </a><img src="./logo/xd.png" height=100px><a> </a><img src="./logo/au.png" height=100px>
 
