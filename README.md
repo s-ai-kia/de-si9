@@ -11,8 +11,7 @@ In this repository I keep track of my design works and notes on best practices. 
 
 #### 🧵 <b>Adobe Photoshop</b> <img src="./logo/lr.png" height=30px><a>
 
-<img src="./work/lr/sk.PNG" height=210px><a> </a><img src="./work/lr/vvs.PNG" height=210px>
-
+<img src="./work/lr/sk.PNG" height=209px><a></a><img src="./work/lr/vvs.PNG" height=209px>
 <img src="./work/lr/scene.jpg">
 
 ### Design work on <b>Video Media</b>
