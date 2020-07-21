@@ -19,7 +19,7 @@ In this repository I keep track of my design works and notes on best practices. 
 
 #### 🧵 <b>Adobe Dimension</b> <img src="./logo/dn.png" height=30px><a>
 
-<img src="./work/dn/car.png" height=190px><a> </a><img src="./work/dn/coffee.png" height=190px><a> </a><img src="./work/dn/can.png" height=190px>
+<img src="./work/dn/car.png" height=190px><a> </a><img src="./work/dn/can.png" height=190px><a> </a><img src="./work/dn/coffee.png" height=190px>
 
 ### Design work on <b>Video Media</b>
 
