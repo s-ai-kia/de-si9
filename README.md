@@ -24,3 +24,7 @@ In this repository I keep track of my design works and notes on best practices. 
 ### Design work on <b>Video Media</b>
 
 <img src="./logo/pr.png" height=100px><a> </a><img src="./logo/ae.png" height=100px><a> </a><img src="./logo/bl.ico" height=100px><a> </a><img src="./logo/maya.png" height=100px><a> </a><img src="./logo/houdini.png" height=100px><a> </a><img src="./logo/arnold.png" height=100px><a> </a><img src="./logo/c4d.png" height=100px><a> </a><img src="./logo/unity.png" height=100px>
+
+#### 🧵 <b>Adobe Premiere Pro</b> <img src="./logo/pr.png" height=30px><a>
+
+<a href="https://youtu.be/0EGWbqH3Li0"><img src="./work/pr/mario1.png" height=150px></a><a> </a><a href="https://youtu.be/p9mai4g1hw8"><img src="./work/pr/stanford.jpg" height=150px>
