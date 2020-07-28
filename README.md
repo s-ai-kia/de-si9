@@ -5,7 +5,7 @@ In this repository I keep track of my design works and notes on best practices. 
 
 <img src="./logo/ps.png" height=100px><a> </a><img src="./logo/lr.png" height=100px><a> </a><img src="./logo/il.png" height=100px><a> </a><img src="./logo/dn.png" height=100px><a> </a><img src="./logo/xd.png" height=100px><a> </a><img src="./logo/au.png" height=100px>
 
-#### 🧵 <b>Adobe Photoshop</b> <img src="./logo/ps.png" height=30px><a>
+#### 🧵 <b>Adobe Photoshop</b> <img src="./logo/ps.png" height=30px><a> [[NOTES]](./notes/ps.md)
 
 <img src="./work/ps/queen_preview.jpg" height=350px><a> </a><img src="./work/ps/haunting_woods_preview.jpg" height=350px><a> </a><img src="./work/ps/fairy_preview.jpg" height=350px>
 
