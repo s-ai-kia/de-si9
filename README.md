@@ -21,6 +21,14 @@ In this repository I keep track of my design works and notes on best practices. 
 
 <img src="./work/dn/car.png" height=190px><a> </a><img src="./work/dn/can.png" height=190px><a> </a><img src="./work/dn/coffee.png" height=190px>
 
+#### 🧵 <b>Adobe XD</b> <img src="./logo/xd.png" height=30px><a>
+
+#### 🧵 <b>Adobe Audition</b> <img src="./logo/au.png" height=30px><a>
+
+#### 🧵 <b>Adobe Animate</b> <img src="./logo/an.png" height=30px><a>
+
+#### 🧵 <b>Toon Boom</b> <img src="./logo/tb.png" height=30px><a>
+
 ### Design work on <b>Video Media</b>
 
 <img src="./logo/pr.png" height=90px><a> </a><img src="./logo/ae.png" height=90px><a> </a><img src="./logo/bl.ico" height=90px><a> </a><img src="./logo/maya.png" height=90px><a> </a><img src="./logo/houdini.png" height=90px><a> </a><img src="./logo/arnold.png" height=90px><a> </a><img src="./logo/c4d.png" height=90px><a> </a><img src="./logo/unity.png" height=90px>
@@ -28,3 +36,13 @@ In this repository I keep track of my design works and notes on best practices. 
 #### 🧵 <b>Adobe Premiere Pro</b> <img src="./logo/pr.png" height=30px><a>
 
 <a href="https://youtu.be/0EGWbqH3Li0"><img src="./work/pr/mario1.png" height=150px></a><a> </a><a href="https://youtu.be/p9mai4g1hw8"><img src="./work/pr/stanford.jpg" height=150px>
+
+#### 🧵 <b>Adobe After Effects</b> <img src="./logo/ae.png" height=30px><a>
+
+#### 🧵 <b>Blender</b> <img src="./logo/bl.ico" height=30px><a>
+
+#### 🧵 <b>Autodesk Maya and Arnold</b> <img src="./logo/maya.png" height=30px> & <img src="./logo/arnold.png" height=30px><a>
+
+#### 🧵 <b>SideFX Houdini</b> <img src="./logo/houdini.png" height=30px><a>
+
+#### 🧵 <b>Cinema 4D</b> <img src="./logo/c4d.png" height=30px><a>
