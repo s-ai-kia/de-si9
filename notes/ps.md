@@ -9,8 +9,7 @@
 
 #### Training Courses:
 
-- [Training Courses
-Udemy : Adobe Photoshop CC – Essentials Training Course
+- [Udemy : Adobe Photoshop CC – Essentials Training Course
 ](https://www.udemy.com/course/adobe-photoshop-cc-essentials-training-course/) ✅
 - [Udemy : Adobe Photoshop CC – Advanced Training Course](https://www.udemy.com/course/adobe-photoshop-cc-advanced-training-course-tutorial/) ✅
 
