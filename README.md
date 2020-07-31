@@ -13,7 +13,7 @@ In this repository I keep track of my design works and notes on best practices. 
 
 <img src="./work/lr/sk.PNG" height=115px><a></a><img src="./work/lr/vvs.PNG" height=115px><img src="./work/lr/scene.jpg" height=115px>
 
-#### 🧵 <b>Adobe Illustrator</b> <img src="./logo/il.png" height=30px><a>
+#### 🧵 <b>Adobe Illustrator</b> <img src="./logo/il.png" height=30px><a> [[NOTES]](./notes/il.md)
 
 <img src="./work/il/arcred.png" height=150px><a> </a><img src="./work/il/arcred-propulsion-2.png" height=150px><a> </a><img src="./work/il/arcred-robotics-2.png" height=150px><a> </a><img src="./work/il/mars.png" height=150px>
 
