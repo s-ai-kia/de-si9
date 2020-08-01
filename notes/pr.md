@@ -32,7 +32,8 @@ I have some notes for me to refer back:
 ◘ Show Audio time units (in the sequence tab) to get greater insights into audio.
 ◘ Razor tool(C) + shift = cuts everything on the timeline from top layer to bottom layer.
 ◘ ctrl + ~ makes the preview full screen.
-◘
+◘ Sequence>Close Gap ; to close all gaps in the sequence.
+
 
 
 
