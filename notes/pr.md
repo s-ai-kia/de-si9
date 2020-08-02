@@ -39,8 +39,13 @@ I have some notes for me to refer back:
 ◘ Razor tool(C) + shift = cuts everything on the timeline from top layer to bottom layer.
 ◘ ctrl + ~ makes the preview full screen.
 ◘ Sequence>Close Gap ; to close all gaps in the sequence.
-
-
-
+◘ Alt and drag a selection duplicates it!
+◘ Select the edge of the clip & (ctrl+d) to put default transition.
+◘ keyframe animation (clock) & then shift right arrow & change the numbers.
+◘ Windows>Essential Graphics | Title Presets
+◘ Title save to Essential Graphs by right click>Export As Motion Graphics Template.
+◘
+◘
+◘
 
 ```
