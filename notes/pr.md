@@ -58,10 +58,12 @@ I have some notes for me to refer back:
   Key Color picker in Effect Controls. Setting : Default to Aggresive (to remove specles).
   Check with Output: Alpha Channel. If I see shadows then in Matte Generation (Change Shadow & other Settings).
   Also Drop Shadow from Video Effects>Perspective>Drop Shadow.
-◘
-◘
-◘
-◘
+◘ Sequence> Render In to out for quick render of preview.
+◘ [Speed Ramps] In Effects Control > Time Remapping | Add keyframes and adjust speed. Drag the lines up in keyframe view area. Select the keyframs ; drag to ramp.
+◘ [SlowMo] Clip>Modify>Interpret Footage:
+
+  Assume Frame Rate: 23.97 (Change it to sequence frame rate)
+◘ [Stop Motion]: 
 ◘  
 
 ```
