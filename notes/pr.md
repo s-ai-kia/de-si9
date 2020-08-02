@@ -44,8 +44,24 @@ I have some notes for me to refer back:
 ◘ keyframe animation (clock) & then shift right arrow & change the numbers.
 ◘ Windows>Essential Graphics | Title Presets
 ◘ Title save to Essential Graphs by right click>Export As Motion Graphics Template.
+◘ Set inpoint (press i) and outpoint (press o) to choose portion for export.
+◘ Export: (ctrl+m) for Export settings
+  Format: H.264
+  Preset: YouTube 1080p HD
+  Bitrate Setting: Bitrate Encoding - change from VBR, 1 Pass to VBR, 2 Pass
+  Target Bitrate: 16 & Maximum Bitrate: 16 } for 1080p
+  [check] Render at Maximum Depth
+  Format - Quicktime; Preset - NTSC DV 24p; Video Codec - Apple ProRes 4444 [for Full Resolution Export]
+  Change bitrate to 2-5 [for small Resolution Export]
+◘ for [Green Screen] add (crop effect) from Video Effects>Transform>Crop & crop top;left;right
+  closets to boundary of object in screen. Then Video Effects>Keying>Ultra Key.
+  Key Color picker in Effect Controls. Setting : Default to Aggresive (to remove specles).
+  Check with Output: Alpha Channel. If I see shadows then in Matte Generation (Change Shadow & other Settings).
+  Also Drop Shadow from Video Effects>Perspective>Drop Shadow.
 ◘
 ◘
 ◘
+◘
+◘  
 
 ```
