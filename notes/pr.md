@@ -69,6 +69,8 @@ I have some notes for me to refer back:
 ◘ Ken Burns Effect(Zoom In or Zoom out Effect in Photo)
 ◘ Windows> Lumetri Color
 ◘ Cinematic with Overlays [Aspect Ratio Overlays in ./pr/Overlays/] Change blend mode. Multiply gets rid of white and Screen gets rid of black.
+◘ Click the camera button in preview to export an image[frame] from video.
+◘ [Remove Noise] Noise due to high ISO in Adobe AE.
 ◘
 
 ```
