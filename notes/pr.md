@@ -67,8 +67,8 @@ I have some notes for me to refer back:
   Still Image Default Duration: 2 frames (for stop motion); New Sequence>Settings>Timebase: 23.976 frames/s. Select All & Right click> Nest (Makes all photos into a single sequence)
 ◘ Smoothen animation -> Keyframe [right click>Temporal Interpolation>Bezier]
 ◘ Ken Burns Effect(Zoom In or Zoom out Effect in Photo)
-◘
-◘
+◘ Windows> Lumetri Color
+◘ Cinematic with Overlays [Aspect Ratio Overlays in ./pr/Overlays/] Change blend mode. Multiply gets rid of white and Screen gets rid of black.
 ◘
 
 ```
