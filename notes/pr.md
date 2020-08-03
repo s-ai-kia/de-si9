@@ -71,6 +71,15 @@ I have some notes for me to refer back:
 ◘ Cinematic with Overlays [Aspect Ratio Overlays in ./pr/Overlays/] Change blend mode. Multiply gets rid of white and Screen gets rid of black.
 ◘ Click the camera button in preview to export an image[frame] from video.
 ◘ [Remove Noise] Noise due to high ISO in Adobe AE.
+◘ Use pen tool to add points in audio track and increase/decrease audio track. Holding shift to move around will help in keeping the same Decibal level.
+◘ Audio Effects> Fill Right with Left or Fill Left with Right. Effects Control> Panner.
+◘ Audio Effects> High pass and Low pass filter to get rid of background noise.
+◘ Make Audio sound better! Audio Effects>EQ = Custom Setup>[Edit...]
+◘ Audio Effects> Parametric Equalizer [similar to old EQ effect] can be also used to remove echo!
+◘ Windows> Essential Sound | Select a track and select a preset!
+◘ Audio Effects> Adaptive Noise Reduction
 ◘
-
+◘
+◘
+◘
 ```
