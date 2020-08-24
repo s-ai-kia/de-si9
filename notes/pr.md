@@ -83,4 +83,6 @@ I have some notes for me to refer back:
 ◘ Curves>Hue Saturation Curve to get only a single color in the frame.
 ◘ HSL Secondary > Pick a particular color in the frame better.
 ◘ Vignette in Color Workspace!
+◘ Video Inside Text> Video Effects>Keying>Track Matte Key [Apply to Video layer] Properties Matte: Video; Composite: Matte Alpha.
+◘
 ```
