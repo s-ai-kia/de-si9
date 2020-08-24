@@ -78,8 +78,9 @@ I have some notes for me to refer back:
 ◘ Audio Effects> Parametric Equalizer [similar to old EQ effect] can be also used to remove echo!
 ◘ Windows> Essential Sound | Select a track and select a preset!
 ◘ Audio Effects> Adaptive Noise Reduction
-◘
-◘
-◘
-◘
+◘ For Color Correction: Window> Workspace> Color  >> Lumetric Scopes and Lumetri Color.
+◘ Grading = Giving more stylistic look.
+◘ Curves>Hue Saturation Curve to get only a single color in the frame.
+◘ HSL Secondary > Pick a particular color in the frame better.
+◘ Vignette in Color Workspace!
 ```
