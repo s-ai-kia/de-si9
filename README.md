@@ -35,7 +35,7 @@ In this repository I keep track of my design works and notes on best practices. 
 
 #### 🧵 <b>Adobe Premiere Pro</b> <img src="./logo/pr.png" height=30px><a> [[NOTES]](./notes/pr.md)
 
-<a href="https://youtu.be/0EGWbqH3Li0"><img src="./work/pr/mario1.png" height=150px></a><a> </a><a href="https://youtu.be/p9mai4g1hw8"><img src="./work/pr/stanford.jpg" height=150px>
+<a href="https://youtu.be/0EGWbqH3Li0"><img src="./work/pr/mario1.png" height=150px></a><a> </a><a href="https://youtu.be/p9mai4g1hw8"><img src="./work/pr/stanford.jpg" height=150px><a> </a><a href="https://youtu.be/V7Wy-OOEQN4"><img src="./work/pr/uk.jpg" height=150px></a>
 
 #### 🧵 <b>Adobe After Effects</b> <img src="./logo/ae.png" height=30px><a>
 
